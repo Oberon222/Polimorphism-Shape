@@ -1,0 +1,3 @@
+The X coordinate of the left corner of the square: 4
+The Y coordinate of the left corner of the square: 4
+Length sides of the square: 12

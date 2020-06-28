@@ -1,0 +1,4 @@
+The X coordinate of the left corner of the rectangle: 5
+The Y coordinate of the left corner of the rectangle: 5
+The length of the rectangle: 8
+The height of the rectangle: 14

@@ -1,0 +1,3 @@
+X coordinate center of the circle: 6
+Y coordinate center of the circle: 6
+The length of the circumference of the circle: 17

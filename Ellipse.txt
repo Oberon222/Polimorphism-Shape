@@ -1,0 +1,4 @@
+X is the coordinate of the upper corner of the ellipse: 7
+Y is the coordinate of the upper corner of the ellipse: 7
+The length of the described rectangle: 11
+The height of the described rectangle: 16
